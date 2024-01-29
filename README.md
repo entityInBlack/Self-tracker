@@ -22,7 +22,7 @@ In this modern technical world, we keep ourselves busy in many activities for wh
 - Gives a self-satisfaction after completing a task, also motivates you if you fall behind while completing a task.
 - Empowers users to take control of their daily routine and aim for a healthier and balanced lifestyle.
 
-- ![image  111111111](https://github.com/entityInBlack/Self_tracker/assets/158097154/128d47e5-6ef2-4e62-b30e-f6ef16b7b5e9)
+![image  111111111](https://github.com/entityInBlack/Self-tracker/assets/158097154/6578cf6c-b999-4e74-967f-f9ef3d361664)
 
 ![Shape1](RackMultipart20240129-1-3m90r3_html_49ac0cb03196381.gif) ![](RackMultipart20240129-1-3m90r3_html_de7f08d807dec04e.png)
 
@@ -39,6 +39,8 @@ In this modern technical world, we keep ourselves busy in many activities for wh
 - Users can see their progress of current task or challenge in a small section of the whole UI.
 - History of the previous challenges should also be views in another section of the UI
 - A section should also be developed for users to create their own personal challenge
+
+- ![sssssssssssssssssss](https://github.com/entityInBlack/Self-tracker/assets/158097154/c5bb27aa-657d-49bd-9271-ddd06ab7e0ee)
 
 ![](RackMultipart20240129-1-3m90r3_html_d52bd1602f6f58b2.png)
 
