@@ -1,14 +1,14 @@
 # Self-tracker
 # **Self-Tracker**
 
-**Project Title:** Self tracker
-**Submitted By:** Md. Jahin Kabir
+### **Project Title:** Self tracker
+### **Submitted By:** Md. Jahin Kabir
 
-**Student ID:** 1902039
-**Submitted to:** Pankaj Bhowmik (Lecturer, HSTU)
+### **Student ID:** 1902039
+### **Submitted to:** Pankaj Bhowmik (Lecturer, HSTU)
 
-Course Code: CSE 305
- Course Title: Software Engineering
+### Course Code: CSE 305
+ ### Course Title: Software Engineering
 
 ### **Introduction:**
 
