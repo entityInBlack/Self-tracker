@@ -22,6 +22,8 @@ In this modern technical world, we keep ourselves busy in many activities for wh
 - Gives a self-satisfaction after completing a task, also motivates you if you fall behind while completing a task.
 - Empowers users to take control of their daily routine and aim for a healthier and balanced lifestyle.
 
+- ![image  111111111](https://github.com/entityInBlack/Self_tracker/assets/158097154/128d47e5-6ef2-4e62-b30e-f6ef16b7b5e9)
+
 ![Shape1](RackMultipart20240129-1-3m90r3_html_49ac0cb03196381.gif) ![](RackMultipart20240129-1-3m90r3_html_de7f08d807dec04e.png)
 
 ## **Requirement gathering & analysis:**
